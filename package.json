@@ -1,0 +1,21 @@
+{
+  "name": "azavea-to-ckan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^0.1.0",
+    "csv-stringify": "^0.0.6",
+    "request": "^2.53.0",
+    "wellknown": "^0.3.1",
+    "express": "^4.12.3",
+    "csv": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Patrick Conant",
+  "license": "ISC",
+  "repository": "https://github.com/CodeForAsheville/wkttogeojson"
+}
